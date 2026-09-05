@@ -134,18 +134,19 @@ const harshal = {
 <table align="center">
   <tr>
     <td width="50%">
-      <h3 align="center">🔗 Project Name One</h3>
-      <p align="center">Short one-line description of what it does and the problem it solves.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
-      </p>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/🔗_Live_Demo-1a1a2e?style=for-the-badge"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/📂_Source-1a1a2e?style=for-the-badge&logo=github"/></a>
-      </p>
+<h3 align="center">🔄 Self-Healing-Scraper</h3>
+<p align="center">A self-healing web scraper for FreeJobAlert.com that automatically detects, diagnoses, and repairs scraper breakage using Bright Data's AI-powered CLI.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-18+-43853D?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bright%20Data-AI%20CLI-1a1a2e?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Zod-Validation-3068B7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SQLite-better--sqlite3-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+</p>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/🔗_Live_Demo-1a1a2e?style=for-the-badge"/></a>
+  <a href="https://github.com/HarshalChugwani2005/Self-Healing-Scraper"><img src="https://img.shields.io/badge/📂_Source-1a1a2e?style=for-the-badge&logo=github"/></a>
+</p>
     </td>
     <td width="50%">
       <h3 align="center">🔗 Project Name Two</h3>

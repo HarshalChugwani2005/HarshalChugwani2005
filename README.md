@@ -10,9 +10,9 @@
 <p align="center">🤝 Open to collaborating on major projects & innovative tech ideas!</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarshalChugwani21&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/HarshalChugwani21?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-  <img src="https://img.shields.io/github/stars/HarshalChugwani21?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=HarshalChugwani2005&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/HarshalChugwani2005?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://img.shields.io/github/stars/HarshalChugwani2005?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
 </p>
 
 <div align="center">
@@ -33,7 +33,7 @@
   <a href="mailto:harshalchugwani@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/HarshalChugwani21">
+  <a href="https://github.com/HarshalChugwani2005">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -169,12 +169,12 @@ const harshal = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshalChugwani21&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshalChugwani21&theme=algolia&hide_border=false" alt="GitHub Streak Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshalChugwani2005&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshalChugwani2005&theme=algolia&hide_border=false" alt="GitHub Streak Stats" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshalChugwani21&theme=algolia&hide_border=false&layout=compact&langs_count=10&card_width=450" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshalChugwani2005&theme=algolia&hide_border=false&layout=compact&langs_count=10&card_width=450" alt="Top Languages"/>
 </div>
 
 ---
@@ -182,7 +182,7 @@ const harshal = {
 ## 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshalChugwani21&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshalChugwani2005&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </p>
 
 ---
@@ -190,7 +190,7 @@ const harshal = {
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshalChugwani21&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HarshalChugwani2005&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -201,7 +201,7 @@ const harshal = {
 <!--END_SECTION:waka-->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HarshalChugwani21&theme=algolia&hide_border=false" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HarshalChugwani2005&theme=algolia&hide_border=false" alt="WakaTime Stats" />
 </div>
 
 > ℹ️ The section above is populated automatically by the `waka-readme` GitHub Action.
@@ -245,7 +245,7 @@ I'm always excited to work on:
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HarshalChugwani21/HarshalChugwani21/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/HarshalChugwani2005/HarshalChugwani2005/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -259,7 +259,7 @@ I'm always excited to work on:
 </p>
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/HarshalChugwani21">Harshal Chugwani</a> | Made with ❤️ and ☕
+  ⭐️ From <a href="https://github.com/HarshalChugwani2005">Harshal Chugwani</a> | Made with ❤️ and ☕
   <br>
   <sub>💼 Open for Internships & Collaborations | 🎯 Always Learning, Always Growing</sub>
 </p>

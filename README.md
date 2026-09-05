@@ -149,15 +149,20 @@ const harshal = {
 </p>
     </td>
     <td width="50%">
-      <h3 align="center">🔗 Project Name Two</h3>
-      <p align="center">Short one-line description of what it does and the problem it solves.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Jenkins-2C5263?style=flat-square&logo=jenkins&logoColor=white"/>
-      </p>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/🔗_Live_Demo-1a1a2e?style=for-the-badge"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/📂_Source-1a1a2e?style=for-the-badge&logo=github"/></a>
+<h3 align="center">🌿 Savatsya Gau Samvardhan</h3>
+<p align="center">A full-stack e-commerce platform that brings natural incense sticks and pure A2 cow ghee to the online marketplace with secure authentication, UPI payments, email notifications, and a responsive modern interface.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-18-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/🔗_Live_Demo-1a1a2e?style=for-the-badge"/></a>
+  <a href="https://github.com/Joshi-Ved/Savatsya-Gau-Samvardhan"><img src="https://img.shields.io/badge/📂_Source-1a1a2e?style=for-the-badge&logo=github"/></a>
+</p>
       </p>
     </td>
   </tr>

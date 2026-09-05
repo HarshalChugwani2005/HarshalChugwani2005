@@ -124,6 +124,48 @@ const harshal = {
 
 ---
 
+## 🌟 Featured Projects
+
+<!--
+  Tip: replace these three placeholders with your actual pinned repos.
+  Format: **Name** — one-line description — tech badges — live/repo link
+-->
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔗 Project Name One</h3>
+      <p align="center">Short one-line description of what it does and the problem it solves.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="#"><img src="https://img.shields.io/badge/🔗_Live_Demo-1a1a2e?style=for-the-badge"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/📂_Source-1a1a2e?style=for-the-badge&logo=github"/></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔗 Project Name Two</h3>
+      <p align="center">Short one-line description of what it does and the problem it solves.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jenkins-2C5263?style=flat-square&logo=jenkins&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="#"><img src="https://img.shields.io/badge/🔗_Live_Demo-1a1a2e?style=for-the-badge"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/📂_Source-1a1a2e?style=for-the-badge&logo=github"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><i>Pin your best repos on your GitHub profile and swap them in here for maximum impact.</i></p>
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -153,7 +195,7 @@ const harshal = {
 
 ---
 
-## 📈 Coding Activity
+## 📈 Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -162,44 +204,8 @@ const harshal = {
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HarshalChugwani21&theme=algolia&hide_border=false" alt="WakaTime Stats" />
 </div>
 
----
-
-## 🎯 Current Projects & Focus
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-      <br><b>Full Stack Apps</b>
-      <br>Building MERN stack applications
-    </td>
-    <td align="center" width="50%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-      <br><b>DevOps Learning</b>
-      <br>Docker, Jenkins & CI/CD
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-      <br><b>Open Source</b>
-      <br>Contributing to community projects
-    </td>
-    <td align="center" width="50%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-      <br><b>IoT Projects</b>
-      <br>Arduino & Raspberry Pi
-    </td>
-  </tr>
-</table>
-
----
-
-## 💡 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Dev Quote" />
-</p>
+> ℹ️ The section above is populated automatically by the `waka-readme` GitHub Action.
+> If it looks empty, you'll need to add that workflow and connect your WakaTime API key — see the note at the bottom of this file.
 
 ---
 
@@ -207,23 +213,25 @@ const harshal = {
 
 <div align="center">
 
-| Certification | Provider | Year |
-|--------------|----------|------|
-| 🏆 Full Stack Development | Udemy/Coursera | 2024 |
-| 🐳 Docker Essentials | Docker | 2024 |
-| 🔧 Git & GitHub | GitHub Learning Lab | 2023 |
+| Certification | Provider | Year | Credential |
+|---|---|---|---|
+| 🏆 Full Stack Development | Udemy / Coursera | 2024 | [View](#) |
+| 🐳 Docker Essentials | Docker | 2024 | [View](#) |
+| 🔧 Git & GitHub | GitHub Learning Lab | 2023 | [View](#) |
 
 </div>
+
+<p align="center"><i>Replace the "View" links above with your actual certificate/credential URLs (e.g. Credly, Coursera, Udemy).</i></p>
 
 ---
 
 ## 📫 Let's Collaborate!
 
 <div align="center">
-  
+
 I'm always excited to work on:
 - 🌐 Full Stack Web Applications
-- 🤖 IoT & Embedded Systems Projects  
+- 🤖 IoT & Embedded Systems Projects
 - 🔧 DevOps & Automation Tools
 - 🚀 Open Source Contributions
 - 💡 Innovative Tech Solutions
@@ -234,29 +242,11 @@ I'm always excited to work on:
 
 ---
 
-## 🐍 Watch my contribution snake eat my contributions!
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HarshalChugwani21/HarshalChugwani21/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
----
-
-## 📊 Profile Stats Summary
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshalChugwani21&theme=algolia" alt="Profile Summary"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshalChugwani21&theme=algolia" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshalChugwani21&theme=algolia" alt="Most Commit Language"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarshalChugwani21&theme=algolia" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HarshalChugwani21&theme=algolia" alt="Productive Time"/>
-</div>
 
 ---
 
@@ -275,7 +265,7 @@ I'm always excited to work on:
 </p>
 
 <div align="center">
-  
-  ### Show some ❤️ by starring some of my repositories!
-  
+
+### Show some ❤️ by starring some of my repositories!
+
 </div>
